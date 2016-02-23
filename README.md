@@ -3,3 +3,4 @@ This is a "blank" Haskell project configured to use Stack and Cabal with Turtle 
     $ stack setup
     $ stack build
     $ stack test
+    $ stack ghci
