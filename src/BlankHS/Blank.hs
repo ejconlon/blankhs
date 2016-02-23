@@ -14,6 +14,7 @@ https://hackage.haskell.org/package/turtle
 https://hackage.haskell.org/package/foldl
 https://hackage.haskell.org/package/text
 https://hackage.haskell.org/package/containers
+https://hackage.haskell.org/package/heredoc
 -}
 
 one :: Int

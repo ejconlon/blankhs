@@ -15,6 +15,7 @@ https://hackage.haskell.org/package/HUnit
 
 someTest :: Test
 someTest = TestCase $ do
+  putStrLn "\n*** Running someTest"
   assertEqual "one is 1" Blank.one 1
 
 allTests :: Test

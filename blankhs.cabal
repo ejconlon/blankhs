@@ -23,7 +23,8 @@ library
     foldl >= 1.1 && < 2,
     text >= 1.2 && < 2,
     containers >= 0.5 && < 1,
-    bytestring >= 0.10 && < 1
+    bytestring >= 0.10 && < 1,
+    heredoc >= 0.2 && < 1
 
 test-suite test
   type:              exitcode-stdio-1.0
