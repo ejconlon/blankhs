@@ -5,6 +5,7 @@ module BlankHS.Blank where
 
 import qualified Control.Foldl as Fold
 import qualified Data.Text as T
+import qualified Data.Map
 import Turtle
 
 {-
